@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+     <url>
+  <loc>https://dota2fan.000webhostapp.com/index.html</loc>
+  <lastmod>2016-12-07</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dota2fan.000webhostapp.com/heroes.html</loc>
+  <lastmod>2016-12-07</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dota2fan.000webhostapp.com/contact.html</loc>
+  <lastmod>2016-12-07</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dota2fan.000webhostapp.com/author.html</loc>
+  <lastmod>2016-12-07</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dota2fan.000webhostapp.com/gallery.html</loc>
+  <lastmod>2016-12-07</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dota2fan.000webhostapp.com/history.html</loc>
+  <lastmod>2016-12-07</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dota2fan.000webhostapp.com/pudge.html</loc>
+  <lastmod>2016-12-07</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dota2fan.000webhostapp.com/ogre.html</loc>
+  <lastmod>2016-12-07</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dota2fan.000webhostapp.com/invoker.html</loc>
+  <lastmod>2016-12-07</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dota2fan.000webhostapp.com/puck.html</loc>
+  <lastmod>2016-12-07</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dota2fan.000webhostapp.com/rubick.html</loc>
+  <lastmod>2016-12-07</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+
+</urlset>

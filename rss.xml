@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0">
+<channel>
+	<title>Short news</title>
+	<link>https://dota2fan.000webhostapp.com/index.html</link>
+	<description>This portal contains news.</description>
+	<item>
+	<title>Character news</title>
+	<link>https://dota2fan.000webhostapp.com/heroes.html</link>
+	<description>You can find new informations about characters here.</description>
+	</item>
+	<item>
+	<title>History news</title>
+	<link>https://dota2fan.000webhostapp.com/history.html</link>
+	<description>You can find news information about history here.</description>
+	</item>
+	<item>
+	<title>Gallery news</title>
+	<link>https://dota2fan.000webhostapp.com/gallery.html</link>
+	<description>New images in gallery can be found here.</description>
+	</item>
+</channel>
+</rss>

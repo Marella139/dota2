@@ -1,0 +1,316 @@
+* {
+	padding:0; 
+	margin:0;
+	font-family: 'Oswald', sans-serif;}
+	
+body { 
+
+	overflow-x: hidden;}
+	
+body  {
+	background-image:url("images/background-image.png");
+	background-repeat:no-repeat;background-position:center;
+	background-color:#D4F1FF;}
+	
+#omot {
+	width:1000px;
+	height:1000px;
+	margin:0 auto;}
+	
+#zaglavlje {
+	width:1000px;
+	height:200px;}
+	
+#logo {
+	position:relative;
+	left:430px;
+	top:60px;}
+.logoo{
+	width:50%;
+	height:100px;
+	margin-left:-150px;}
+	
+#meni {
+	width:1000px;
+	height:50px;
+	margin:0;}
+	
+#menulevo{
+	width:800px;
+	height:50px;
+	margin-left:0px auto;}
+	
+#menudesno{
+	
+	width:200px;
+	height:50px;
+	margin: 0px auto;
+	float:right;
+	}
+.search{
+	float:right;
+	margin-top:-90px;
+	margin-right:25px;
+}
+	
+#omotsredina {
+	height:600px;
+	width:1000px;
+	margin-left:-150px;}
+		
+#desnakolona{
+	height:550px;
+	width:300px;
+	float:left;
+	margin-left:400px;}
+	
+#footer {
+	width:1000px;
+	height:130px;
+	margin:-40px auto;
+	position:relative;}
+	
+#pic{position:relative;
+	height:550px;
+	 left:42px;
+}
+#levakolonaa{
+	width:310px;
+	height:500px;
+	float:right;
+	display:inline;
+	margin-right:-50px;
+}
+.pudge{
+	float:right;
+	
+}
+.pics {
+	
+	float:left;
+	margin:5px;
+	}
+
+
+	
+.sredina {
+	width:500px;
+	margin:0 auto;
+	padding:10px;}
+	
+.cisti {
+	clear:both}
+	
+#search {
+	position:relative;
+	top:12px}
+	
+#fmeni {
+	width:380px;
+	margin-left:auto;
+	margin-right:auto;
+	position: relative;
+	top: 20px;}
+	
+#ifmeni {
+	width:555px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+	position: relative;
+	top:10px;}
+	
+	
+#ifmeni a {text-decoration:none;}
+	
+#ifmeni a:link {color:#FFF;}
+
+#ifmeni a:visited {color:#FFF;}
+	
+#fmeni a {text-decoration:none;}
+	
+#fmeni a:link {color:#FFF;}
+
+#fmeni a:visited {color:#FFF;}
+
+#charlist a {
+	text-decoration:none;
+	display:block;
+	width:150px;}
+	
+#charlist li {
+	margin:0px 0px 20px 0px;
+	position:relative;
+	left:50px;}
+	
+#charlist a:link {color:#FFF;}
+
+#charlist a:visited {color:#FFF;}
+
+#charlist a:hover {
+	color:#FFF;
+	text-decoration:underline;
+	background-image:url("slike/hover4.png");
+	background-repeat:no-repeat;
+	background-position:0% 70%;}
+	
+ ul {
+	 list-style-type:none;
+	 text-align:center;}
+	 
+#charlist {padding:65px 0 0 0;}
+
+h1,h2 {text-align:center;}
+
+#charpic {position:relative;left:110px;}
+
+#charslika {width:300px; height:600px; float:left;}
+
+#chardes {width:399px;height:600px;float:left;}
+
+#storypic {position:relative;left:246px;}
+
+div.img {
+	margin: 13px;
+	padding: 5px;
+	height: auto;
+	width: auto;
+	float: left;
+	text-align: center;}
+	
+div.img img {display: inline;margin: 5px;}
+
+#forma {
+	height:400px;
+	width:330px;
+	position:relative;
+	left:169px;
+	top:20px;}
+
+#anketa {
+	position:relative;
+	left:440px;
+	}
+	
+#socialNetworks {
+	width:210px;
+	height:50px;
+	margin:0px auto;
+	margin-top:20px;
+	position:relative;
+	top:30px;}
+	
+#socialNetworks ul {
+	list-style-type:none;
+	text-align:center;}
+	
+#socialNetworks a {
+	display:block;
+	width:30px;
+	height:30px;
+	text-decoration:none;
+	padding:10px;
+	margin:0 auto;}
+	
+#socialNetworks li {float:left;font-size:20px;}
+
+div .text p {text-align:center; margin:30px auto;}
+
+#indexpic {position:relative;left:130px;}
+
+.text {text-align:center;
+		margin-left:-100px;}
+
+
+#authorpic {position:relative;left: 400px;top:7px;}
+
+.gltext {width:850px;
+		 margin:30px auto;
+
+}
+.gltext h1{
+	margin-left:-125px;
+}
+
+
+/* slajder css*/
+#slider {
+    width: 720px;
+    height: 400px;
+    overflow: hidden;
+	margin-left:-30px;
+}
+
+#slider .slides {
+    display: block;
+    width: 6000px;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+}
+
+#slider .slide {
+    float: left;
+    list-style-type: none;
+    width: 720px;
+    height: 400px;
+}
+
+
+
+/*css za meni */
+#sddm
+{	margin-left: 140px;
+	width:800px;
+	height:50px;
+	padding: 0;
+	z-index: 30}
+
+#sddm li
+{	margin: 0;
+	padding: 0;
+	list-style: none;
+	float: left;
+	font: bold 11px arial;}
+
+#sddm li a
+{	display: block;
+	margin: 0 1px 0 0;
+	padding: 4px 10px;
+	width: 112px;
+	color: navy;
+	font-size:18px;
+	text-align: center;
+	text-decoration: none;}
+
+#sddm li a:hover
+{	background:#65D8DA;}
+
+#sddm div
+{	position: absolute;
+	visibility: hidden;
+	margin: 0;
+	padding: 0;
+	background: #EAEBD8;
+}
+
+#sddm div a
+{	position: relative;
+	display: block;
+	margin: 0;
+	padding: 5px 10px;
+	width: auto;
+	white-space: nowrap;
+	text-align: left;
+	text-decoration: none;
+	color:navy;
+	width:113px;
+	z-index:50;
+}
+#sddm div a:hover
+{	background:#65D8DA;
+		color: navy;}
+		
+#cleaner{
+	clear:both;
+}
